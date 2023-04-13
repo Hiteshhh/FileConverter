@@ -1,0 +1,6 @@
+C:\Users\hqwx9p\source\repos\FormatConverter\FileConverter\bin\Debug\FileConverter.dll
+C:\Users\hqwx9p\source\repos\FormatConverter\FileConverter\bin\Debug\FileConverter.pdb
+C:\Users\hqwx9p\source\repos\FormatConverter\FileConverter\obj\Debug\FileConverter.csproj.AssemblyReference.cache
+C:\Users\hqwx9p\source\repos\FormatConverter\FileConverter\obj\Debug\FileConverter.csproj.CoreCompileInputs.cache
+C:\Users\hqwx9p\source\repos\FormatConverter\FileConverter\obj\Debug\FileConverter.dll
+C:\Users\hqwx9p\source\repos\FormatConverter\FileConverter\obj\Debug\FileConverter.pdb

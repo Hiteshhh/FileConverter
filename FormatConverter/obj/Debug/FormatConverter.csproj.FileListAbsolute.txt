@@ -1,0 +1,11 @@
+C:\Users\hqwx9p\source\repos\FormatConverter\FormatConverter\bin\Debug\FormatConverter.exe.config
+C:\Users\hqwx9p\source\repos\FormatConverter\FormatConverter\bin\Debug\FormatConverter.exe
+C:\Users\hqwx9p\source\repos\FormatConverter\FormatConverter\bin\Debug\FormatConverter.pdb
+C:\Users\hqwx9p\source\repos\FormatConverter\FormatConverter\obj\Debug\FormatConverter.csproj.AssemblyReference.cache
+C:\Users\hqwx9p\source\repos\FormatConverter\FormatConverter\obj\Debug\FormatConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\hqwx9p\source\repos\FormatConverter\FormatConverter\obj\Debug\FormatConverter.csproj.CoreCompileInputs.cache
+C:\Users\hqwx9p\source\repos\FormatConverter\FormatConverter\obj\Debug\FormatConverter.exe
+C:\Users\hqwx9p\source\repos\FormatConverter\FormatConverter\obj\Debug\FormatConverter.pdb
+C:\Users\hqwx9p\source\repos\FormatConverter\FormatConverter\bin\Debug\FileConverter.dll
+C:\Users\hqwx9p\source\repos\FormatConverter\FormatConverter\bin\Debug\FileConverter.pdb
+C:\Users\hqwx9p\source\repos\FormatConverter\FormatConverter\obj\Debug\FormatConverter.csproj.CopyComplete
